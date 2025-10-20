@@ -33,6 +33,14 @@
       gap: 20px;
       justify-content: center;
     }
+
+    .container-multiheight {
+      display: flex;
+      padding: 30px;
+      gap: 20px;
+      justify-content: center;
+      align-content: first baseline;
+    }
      .bettercontainer {
       display: flex;
       padding: 30px;
