@@ -90,7 +90,10 @@
     }
     
 
-
+.smalltext {
+  font-size: 10px;
+  width: 100px;
+}
 .coolcontainer{ display: flex; align-items: center; margin-top: 10px;
 }
 
